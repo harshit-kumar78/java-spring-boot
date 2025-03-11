@@ -2,7 +2,7 @@
 
 
 ### collection ?
- - group of individual objects represented as a single unit.
+- group of individual objects represented as a single unit.
 - example - collection of books,bikes,stamps
 
 ### framework ?
@@ -36,3 +36,8 @@
 
 - Collections (contains static methods to operate on collections, such as sorting, searching, etc.)
 - Iterator (interface for iterating over collections)
+
+# Collection hierarchy
+![alt text](image.png)
+
+![alt text](image-1.png)
