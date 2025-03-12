@@ -38,6 +38,6 @@
 - Iterator (interface for iterating over collections)
 
 # Collection hierarchy
-![alt text](image.png)
+![alt text](collection.png)
 
-![alt text](image-1.png)
+![alt text](map.png)
